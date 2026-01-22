@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# YOLO Weights & Runs
+*.pt
+runs/
+
+# Media files (Downloaded videos)
+*.mp4
+*.avi
+*.mkv
+*.webm
+*.f*
+*.jpg
+*.jpeg
+*.png
+
+# OS Stuff
+.DS_Store
+Thumbs.db
