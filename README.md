@@ -1,5 +1,7 @@
 # Belajar YOLO
 
+![bus](https://github.com/user-attachments/assets/317867ff-2a32-452f-9fcc-121bff0febb6)
+
 Projek latihan deteksi objek menggunakan YOLOv11 dan Python (versi 312).
 
 ## Fitur
@@ -11,7 +13,14 @@ Projek latihan deteksi objek menggunakan YOLOv11 dan Python (versi 312).
    ```bash
    pip install ultralytics yt-dlp
    ```
-2. Jalankan script `yt.py`:
+2. Jalankan script file py:
+
+   * file `kamera_yolo.py`
    ```bash
-   python yt.py
+   python kamera_yolo.py
    ```
+
+   * file `yt.py`
+     ```bash
+     python yt.py
+     ```
