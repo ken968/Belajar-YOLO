@@ -1,6 +1,6 @@
 # Belajar YOLO
 
-Projek latihan deteksi objek menggunakan YOLOv11 dan Python.
+Projek latihan deteksi objek menggunakan YOLOv11 dan Python (versi 312).
 
 ## Fitur
 - Deteksi objek dari YouTube stream menggunakan `yt-dlp`.
